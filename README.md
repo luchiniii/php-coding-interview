@@ -20,6 +20,10 @@ Also, we recommend you read the code so that you are not caught off guard.
 
 The live coding session will be more like a pair programming exercise, we will request you to implement a feature, solve bugs or give code advice. You will be able to use Google and any documentation that can help you. Instructions will be provided in the live coding session.
 
+# Extra details
+
+To add the phone validation feature you should use the following API: https://numverify.com/documentation considering US numbers.
+
 # Basic requirements
 
 - Your preferred IDE / Code Editor
