@@ -1,8 +1,8 @@
 ![BEON LOGO](https://beon.studio/blog/wp-content/themes/twentybeon/app/images/beon-purple.png)
 
-# PHP Live Coding Challenge
+# PHP Coding Exercise
 
-Before joining the live coding challenge, you should have set up the local environment for the application.
+Before joining the coding exercise, you should have set up the local environment for the application.
 
 Consider having installed:
 - Composer (for ubuntu: sudo apt install composer)
@@ -16,9 +16,9 @@ Steps:
 
 Also, we recommend you read the code so that you are not caught off guard.
 
-# What does the live coding looks like?
+# What does the coding interview looks like?
 
-The live coding session will be more like a pair programming exercise, we will request you to implement a feature, solve bugs or give code advice. You will be able to use Google and any documentation that can help you. Instructions will be provided in the live coding session.
+The coding interview session will be more like a pair programming exercise, we will request you to implement a feature, solve bugs or give code advice. You will be able to use Google and any documentation that can help you. Instructions will be provided in the live coding session.
 
 # Extra details
 
