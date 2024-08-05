@@ -17,4 +17,11 @@ class DogModel {
 	public function getDogs() {
 		return $this->dogData;
 	}
+
+    public function getDogsByClientId(int $id)
+    {
+        return array_filter($this->dogData, function ($dog) use ($id) {
+            return $dog['clientid'] === $id;
+        });
+    }
 }

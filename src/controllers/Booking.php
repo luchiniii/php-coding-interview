@@ -13,4 +13,9 @@ class Booking {
 	public function getBookings() {
 		return $this->getBookingModel()->getBookings();
 	}
+
+    public function createBooking(array $booking)
+    {
+        return $this->getBookingModel()->createBooking($booking);
+    }
 }
